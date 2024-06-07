@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![Snake animation](https://raw.githubusercontent.com/celias/celias/output/github-contribution-grid-snake-dark.svg)
+
+
+
 <!--
 **celias/celias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
